@@ -16,6 +16,13 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+![Screenshot of the hole wab apge](https://github.com/anesMoB/booking/blob/main/project-image-01.PNG)
+![Screenshot of the hole wab apge](https://github.com/anesMoB/booking/blob/main/project-image-02.PNG)
+![Screenshot of the hole wab apge](https://github.com/anesMoB/booking/blob/main/project-image-03.PNG)
+![Screenshot of the hole wab apge](https://github.com/anesMoB/booking/blob/main/project-image-04.PNG)
+![Screenshot of the hole wab apge](https://github.com/anesMoB/booking/blob/main/project-image-05.PNG)
+
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
