@@ -7,15 +7,15 @@ import React from "react";
 import "./globals.css";
 import SideBarProvider from "@/components/Custom/SidebarProvider";
 
-/* const geistSans = Geist({
+ const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
-}); */
-/* 
+}); 
+
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
-}); */
+}); 
 
 export const metadata: Metadata = {
   title: "Dashboard",
@@ -31,7 +31,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body
         className={`
-          
+          ${geistSans.variable} ${geistMono.variable}
           antialiased`}
       >
         <ThemeProvider
